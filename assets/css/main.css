@@ -545,6 +545,10 @@ section {
   font-family: var(--font-secondary);
 }
 
+.hero p {
+  color: #fff;
+}
+
 .hero blockquote {
   color: #fff;
   padding-left: 20px;
